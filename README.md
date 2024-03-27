@@ -29,7 +29,14 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/a7bd1e9511fc44afb0c34998cfd2804b">
+      <p>Bereal Part1 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a7bd1e9511fc44afb0c34998cfd2804b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a7bd1e9511fc44afb0c34998cfd2804b-1711575511127-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
